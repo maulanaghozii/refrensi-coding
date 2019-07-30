@@ -1,6 +1,9 @@
 # refrensi-coding
 Documentation coding
 
+JavaScript in CodeWars:
+https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8
+
 Python Documentation:
 https://www.w3schools.com/python/python_numbers.asp
 
