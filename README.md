@@ -1,6 +1,9 @@
 # refrensi-coding
 Documentation coding
 
+JavaScript OOP Method Chaining:
+https://medium.com/backticks-tildes/understanding-method-chaining-in-javascript-647a9004bd4f
+
 JavaScript in CodeWars:
 https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8
 
@@ -21,5 +24,3 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats
 
 Grid CSS :
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids
-
-
